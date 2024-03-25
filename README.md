@@ -1,2 +1,2 @@
 # Atividade-Faculdade
-Aqui ficam as atividades da faculdade
+Atividade da disciplina de Ferramentas WEB e UX
